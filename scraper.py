@@ -22,7 +22,7 @@ def scrape(args: argparse.Namespace):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Vaxxed Doggo Scraper')
+    parser = argparse.ArgumentParser(description='Vaxxed Doggos Scraper')
     parser.add_argument('--savedir', type=str,
                         default='data/', help='save directory')
     args = parser.parse_args()
