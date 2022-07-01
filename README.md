@@ -1,1 +1,1 @@
-# ape-gan
+# Vaxxed Doggos GAN
